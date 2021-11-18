@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"java.project.sourcePaths": [
+			"Aula4/uri",
+			"Aula4/exercicios",
+			"Aula4/exemplos",
+			"Aula2",
+			"Aula5/exercicios"
+		]
+	}
+}
