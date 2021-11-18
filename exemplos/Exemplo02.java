@@ -1,7 +1,6 @@
 package exemplos;
 
 public class Exemplo02 {
-    
     public static void main(String[] args) {
         // TIPO NOME;
         int numero; // cria uma variável chamada número, que guarda um valor inteiro
@@ -20,5 +19,4 @@ public class Exemplo02 {
          
         System.out.println(numero);
     }
-
 }
